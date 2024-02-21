@@ -3,10 +3,13 @@
 # Function to create a new student record
 create_student_record() {
     echo "Enter student email:"
+    echo "v.fakunle@alustudent.com"
     read email
     echo "Enter student age:"
+    echo "22"
     read age
     echo "Enter student ID:"
+    echo "Victoria Fakunle"
     read id
     
     # Save student record to file
