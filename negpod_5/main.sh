@@ -4,12 +4,15 @@
 
 create_student_record(){
     echo "I.niwemwana@alustudent:"
+    echo "l.umwananka1@alustudent.com:"
     read email
 
     echo "21:"
+    echo "20:"
     read age
 
     echo "Innocente Niwemwana:"
+    echo "Liliane Umwanankabandi:"
     read id
 
     # Check if ID already exists
